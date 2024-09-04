@@ -1,0 +1,75 @@
+C:\Users\ИСП-23\source\repos\Практическая 20\Практическая 20\bin\Debug\Практическая 20.exe.config
+C:\Users\ИСП-23\source\repos\Практическая 20\Практическая 20\bin\Debug\Практическая 20.exe
+C:\Users\ИСП-23\source\repos\Практическая 20\Практическая 20\bin\Debug\Практическая 20.pdb
+C:\Users\ИСП-23\source\repos\Практическая 20\Практическая 20\obj\Debug\Практическая 20.csproj.AssemblyReference.cache
+C:\Users\ИСП-23\source\repos\Практическая 20\Практическая 20\obj\Debug\MainWindow.g.cs
+C:\Users\ИСП-23\source\repos\Практическая 20\Практическая 20\obj\Debug\App.g.cs
+C:\Users\ИСП-23\source\repos\Практическая 20\Практическая 20\obj\Debug\Практическая 20_MarkupCompile.cache
+C:\Users\ИСП-23\source\repos\Практическая 20\Практическая 20\obj\Debug\Практическая 20_MarkupCompile.lref
+C:\Users\ИСП-23\source\repos\Практическая 20\Практическая 20\obj\Debug\MainWindow.baml
+C:\Users\ИСП-23\source\repos\Практическая 20\Практическая 20\obj\Debug\Практическая 20.g.resources
+C:\Users\ИСП-23\source\repos\Практическая 20\Практическая 20\obj\Debug\Практическая_20.Properties.Resources.resources
+C:\Users\ИСП-23\source\repos\Практическая 20\Практическая 20\obj\Debug\Практическая 20.csproj.GenerateResource.cache
+C:\Users\ИСП-23\source\repos\Практическая 20\Практическая 20\obj\Debug\Практическая 20.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-23\source\repos\Практическая 20\Практическая 20\obj\Debug\Практическая 20.exe
+C:\Users\ИСП-23\source\repos\Практическая 20\Практическая 20\obj\Debug\Практическая 20.pdb
+D:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\bin\Debug\Практическая 20.exe.config
+D:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\bin\Debug\Практическая 20.exe
+D:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\bin\Debug\Практическая 20.pdb
+D:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая 20.csproj.AssemblyReference.cache
+D:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\MainWindow.g.cs
+D:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\App.g.cs
+D:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая 20_MarkupCompile.cache
+D:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая 20_MarkupCompile.lref
+D:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\MainWindow.baml
+D:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая 20.g.resources
+D:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая_20.Properties.Resources.resources
+D:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая 20.csproj.GenerateResource.cache
+D:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая 20.csproj.CoreCompileInputs.cache
+D:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая 20.exe
+D:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая 20.pdb
+C:\Users\исп-23\Desktop\ALL ПРАКТОСЫ\Практическая 20\Практическая 20\bin\Debug\Практическая 20.exe.config
+C:\Users\исп-23\Desktop\ALL ПРАКТОСЫ\Практическая 20\Практическая 20\bin\Debug\Практическая 20.exe
+C:\Users\исп-23\Desktop\ALL ПРАКТОСЫ\Практическая 20\Практическая 20\bin\Debug\Практическая 20.pdb
+C:\Users\исп-23\Desktop\ALL ПРАКТОСЫ\Практическая 20\Практическая 20\obj\Debug\Практическая 20.csproj.AssemblyReference.cache
+C:\Users\исп-23\Desktop\ALL ПРАКТОСЫ\Практическая 20\Практическая 20\obj\Debug\MainWindow.g.cs
+C:\Users\исп-23\Desktop\ALL ПРАКТОСЫ\Практическая 20\Практическая 20\obj\Debug\App.g.cs
+C:\Users\исп-23\Desktop\ALL ПРАКТОСЫ\Практическая 20\Практическая 20\obj\Debug\Практическая 20_MarkupCompile.cache
+C:\Users\исп-23\Desktop\ALL ПРАКТОСЫ\Практическая 20\Практическая 20\obj\Debug\Практическая 20_MarkupCompile.lref
+C:\Users\исп-23\Desktop\ALL ПРАКТОСЫ\Практическая 20\Практическая 20\obj\Debug\MainWindow.baml
+C:\Users\исп-23\Desktop\ALL ПРАКТОСЫ\Практическая 20\Практическая 20\obj\Debug\Практическая 20.g.resources
+C:\Users\исп-23\Desktop\ALL ПРАКТОСЫ\Практическая 20\Практическая 20\obj\Debug\Практическая_20.Properties.Resources.resources
+C:\Users\исп-23\Desktop\ALL ПРАКТОСЫ\Практическая 20\Практическая 20\obj\Debug\Практическая 20.csproj.GenerateResource.cache
+C:\Users\исп-23\Desktop\ALL ПРАКТОСЫ\Практическая 20\Практическая 20\obj\Debug\Практическая 20.csproj.CoreCompileInputs.cache
+C:\Users\исп-23\Desktop\ALL ПРАКТОСЫ\Практическая 20\Практическая 20\obj\Debug\Практическая 20.exe
+C:\Users\исп-23\Desktop\ALL ПРАКТОСЫ\Практическая 20\Практическая 20\obj\Debug\Практическая 20.pdb
+E:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\bin\Debug\Практическая 20.exe.config
+E:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\bin\Debug\Практическая 20.exe
+E:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\bin\Debug\Практическая 20.pdb
+E:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая 20.csproj.AssemblyReference.cache
+E:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\MainWindow.g.cs
+E:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\App.g.cs
+E:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая 20_MarkupCompile.cache
+E:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая 20_MarkupCompile.lref
+E:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\MainWindow.baml
+E:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая 20.g.resources
+E:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая_20.Properties.Resources.resources
+E:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая 20.csproj.GenerateResource.cache
+E:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая 20.csproj.CoreCompileInputs.cache
+E:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая 20.exe
+E:\Гуреева И.Д. ОАиП\Практическая 20\Практическая 20\obj\Debug\Практическая 20.pdb
+C:\Users\исп-23\Desktop\Практическая 20\Практическая 20\bin\Debug\Практическая 20.exe.config
+C:\Users\исп-23\Desktop\Практическая 20\Практическая 20\bin\Debug\Практическая 20.exe
+C:\Users\исп-23\Desktop\Практическая 20\Практическая 20\bin\Debug\Практическая 20.pdb
+C:\Users\исп-23\Desktop\Практическая 20\Практическая 20\obj\Debug\Практическая 20.csproj.AssemblyReference.cache
+C:\Users\исп-23\Desktop\Практическая 20\Практическая 20\obj\Debug\MainWindow.g.cs
+C:\Users\исп-23\Desktop\Практическая 20\Практическая 20\obj\Debug\App.g.cs
+C:\Users\исп-23\Desktop\Практическая 20\Практическая 20\obj\Debug\Практическая 20_MarkupCompile.cache
+C:\Users\исп-23\Desktop\Практическая 20\Практическая 20\obj\Debug\Практическая 20_MarkupCompile.lref
+C:\Users\исп-23\Desktop\Практическая 20\Практическая 20\obj\Debug\MainWindow.baml
+C:\Users\исп-23\Desktop\Практическая 20\Практическая 20\obj\Debug\Практическая 20.g.resources
+C:\Users\исп-23\Desktop\Практическая 20\Практическая 20\obj\Debug\Практическая_20.Properties.Resources.resources
+C:\Users\исп-23\Desktop\Практическая 20\Практическая 20\obj\Debug\Практическая 20.csproj.GenerateResource.cache
+C:\Users\исп-23\Desktop\Практическая 20\Практическая 20\obj\Debug\Практическая 20.csproj.CoreCompileInputs.cache
+C:\Users\исп-23\Desktop\Практическая 20\Практическая 20\obj\Debug\Практическая 20.exe
+C:\Users\исп-23\Desktop\Практическая 20\Практическая 20\obj\Debug\Практическая 20.pdb
